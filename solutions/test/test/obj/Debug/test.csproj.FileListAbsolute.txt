@@ -1,0 +1,18 @@
+c:\users\piach\documents\visual studio 2015\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\bin\Debug\test.exe
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\bin\Debug\test.pdb
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Form1.resources
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\obj\Debug\test.exe
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\obj\Debug\test.pdb
+C:\Users\piach\documents\visual studio 2015\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\piach\Desktop\flash\test\test\bin\Debug\test.exe.config
+C:\Users\piach\Desktop\flash\test\test\bin\Debug\test.exe
+C:\Users\piach\Desktop\flash\test\test\bin\Debug\test.pdb
+C:\Users\piach\Desktop\flash\test\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\piach\Desktop\flash\test\test\obj\Debug\test.Form1.resources
+C:\Users\piach\Desktop\flash\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\piach\Desktop\flash\test\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\piach\Desktop\flash\test\test\obj\Debug\test.exe
+C:\Users\piach\Desktop\flash\test\test\obj\Debug\test.pdb
